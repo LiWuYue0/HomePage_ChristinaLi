@@ -301,23 +301,23 @@ body::before {
 }
 
 .language-tag.js {
-    background: rgb(132 157 195 / 57%);
-    color: #212121;
+    background: rgba(255, 248, 156, 0.57);
+    color: #fef4d7;
 }
 
 .language-tag.py {
-    background: rgb(132 157 195 / 57%);
-    color: #212121;
+    background: rgb(255, 248, 156, 0.57);
+    color: #fef4d7;
 }
 
 .language-tag.ts {
-    background: rgb(132 157 195 / 57%);
-    color: #212121;
+    background: rgb(255, 248, 156, 0.57);
+    color: #fef4d7;
 }
 
 .language-tag.css {
-    background: rgb(132 157 195 / 57%);
-    color: #212121;
+    background: rgb(255, 248, 156, 0.57);
+    color: #fef4d7;
 }
 
 /* 站点和项目部分 */

@@ -997,7 +997,7 @@ function detectDevTools() {
         }
         
         #devtools-notification .close-btn:hover {
-            background: rgba(255,255,255,0.2);
+            background: rgba(255, 243, 107, 0.2);
         }
         
         #devtools-notification .devtools-body p {
