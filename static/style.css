@@ -301,8 +301,8 @@ body::before {
 }
 
 .language-tag.js {
-    background: rgba(255, 255, 255, 0.57);
-    color: #f3dc5a;
+    background: rgba(255, 248, 210, 0.402);
+    color:rgb(255, 255, 255);
 }
 
 .language-tag.py {
