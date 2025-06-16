@@ -10,7 +10,7 @@ body {
     color: #fff;
     overflow-x: hidden;
     background: 
-        linear-gradient(135deg, rgba(30, 60, 114, 0.9) 0%, rgba(42, 82, 152, 0.8) 50%, rgba(102, 126, 234, 0.7) 100%),
+        linear-gradient(135deg, rgba(255, 182, 193, 0.9) 0%, rgba(255, 105, 180, 0.8) 50%, rgba(255, 20, 147, 0.7) 100%),
         url(https://jsdelivr.badking.pp.ua/gh/formeai/ok-image@imavvg/ok/image/1749867098809freecompress-.png);
     background-size: cover;
     background-position: center;
