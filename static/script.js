@@ -551,7 +551,7 @@ function showIframe() {
         right: 5px;
         background: rgba(255, 255, 255, 0.2);
         border: none;
-        color: #28487a;
+        color:rgb(205, 98, 185);
         font-size: 20px;
         width: 25px;
         height: 25px;
@@ -837,11 +837,10 @@ function detectDevTools() {
         // 控制台输出样式化信息
         console.clear();
         console.log('%c🎉 欢迎来到我的个人主页！', 'color:rgb(216, 148, 204); font-size: 20px; font-weight: bold;');
-        console.log('%c👋 我的博客：https://blog.loadke.tech！', 'color: #00b894; font-size: 16px; font-weight: bold;');
-        console.log('%c📧 联系我：https://t.me/IonMagic', 'color: #fdcb6e; font-size: 14px;');
-        console.log('%c🌟 GitHub：https://github.com/IonRh', 'color: #e17055; font-size: 14px;');
+        console.log('%c👋 我的博客：https://github.com/Verenaaa123', 'color: #00b894; font-size: 16px; font-weight: bold;');
+        console.log('%c📧 联系我：https://github.com/Verenaaa123', 'color: #fdcb6e; font-size: 14px;');
+        console.log('%c🌟 GitHub：https://github.com/Verenaaa123', 'color: #e17055; font-size: 14px;');
         console.log('%c🚀 喜欢探索新技术，欢迎交流合作！', 'color: #fd79a8; font-size: 14px;');
-        console.log('%c💡 个人使用，请保留出处哦~', 'color: #00cec9; font-size: 14px;');
         
         // 添加ASCII艺术
         console.log(`
